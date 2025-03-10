@@ -144,6 +144,7 @@ class person
     private:
        char name[20];
        int age;
+
     public:
        person(char* name,int age)
        {
